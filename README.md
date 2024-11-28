@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [My own portfolio](https://github.com/Karylus/karylusweb)<br><br>- 🌱 I’m currently learning **React and C#**<br><br>- 💬 Ask me about **C++, Python or Hardware**<br><br>- ⚡ Fun fact **I'm not funny at all**<br>
+- 🔭 I’m currently working on [My own portfolio](https://github.com/Karylus/karylusweb)<br><br>- 🌱 I’m currently learning **Langchain and Java**<br><br>- 💬 Ask me about **C++, Python or Hardware**<br><br>- ⚡ Fun fact **I'm not funny at all**<br>
 
 
 # 💻 Tech Stack:
