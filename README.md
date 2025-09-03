@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on my Bachelor's Final Project :no_mouth: :smirk:<br><br>- 🌱 I’m currently learning **Langchain and N8N**<br><br>- 💬 Ask me about **C++, Python or Hardware**<br><br>- ⚡ Fun fact **I'm not funny at all**<br>
+- 🔭 I’m currently working on enchancing my personal Portfolio :no_mouth: :smirk:<br><br>- 🌱 I’m currently studying **CompTIA Security+**<br><br>- 💬 Ask me about **C++, Python or N8N**<br><br>- ⚡ Fun fact **I'm not funny at all**<br>
 
 
 # 💻 Tech Stack:
